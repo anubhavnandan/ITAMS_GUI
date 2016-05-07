@@ -1,6 +1,6 @@
 {
   "name": "Itams gui",
   "tagline": "IT Asset Managment System GUI",
-  "body": "### Welcome to GitHub Pages.\r\n\r\n### Designer Templates\r\n\r\n### Creating pages manually\r\n\r\n### Authors and Contributors\r\n\r\n### Support or Contact\r\n",
+  "body": "### Welcome to GitHub Pages.\r\nProject Work is during my summer tranning in Advanced Java at Hidustan Company Limited(HCL)\r\n### Designer Templates\r\nIn this project GUI templates and UI in Swing Framework.This framework provide Graphical User Interface with following Features:\r\nAuthentication \r\nCURD Operations\r\n### Creating pages manually\r\nGUI based Asset Monitoring . This project is implemented during my summer tranning.\r\nDatabase based implementation. I have followed modular approach in this project.\r\n### Authors and Contributors\r\nAnubhav Nandan (@anubhavnandan)\r\n### Support or Contact\r\nE-Mail : anubhavshore@gmail.com",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
